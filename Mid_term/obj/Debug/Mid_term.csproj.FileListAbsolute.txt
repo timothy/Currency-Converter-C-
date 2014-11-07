@@ -1,0 +1,57 @@
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Assets\ApplicationIcon.png
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Mid_term.dll
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Mid_term.pdb
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\AppManifest.xaml
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Properties\WMAppManifest.xml
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\Bin\Debug\Mid_term_Debug_AnyCPU.xap
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\obj\Debug\App.g.cs
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\obj\Debug\MainPage.g.cs
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\obj\Debug\Mid_term.g.resources
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\obj\Debug\Mid_term.Resources.AppResources.resources
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\obj\Debug\Mid_term.csproj.GenerateResource.Cache
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\obj\Debug\Mid_term.dll
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\obj\Debug\Mid_term.pdb
+D:\school\Mobile apps\midTerm\Mid_term\Mid_term\obj\Debug\XapCacheFile.xml
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\App.g.cs
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\MainPage.g.cs
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.g.resources
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.Resources.AppResources.resources
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.csproj.GenerateResource.Cache
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.dll
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.pdb
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\ApplicationIcon.png
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Mid_term.dll
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Mid_term.pdb
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\AppManifest.xaml
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Properties\WMAppManifest.xml
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Mid_term_Debug_AnyCPU.xap
+Q:\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\XapCacheFile.xml
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\ApplicationIcon.png
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Mid_term.dll
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Mid_term.pdb
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\AppManifest.xaml
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Properties\WMAppManifest.xml
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\Bin\Debug\Mid_term_Debug_AnyCPU.xap
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\App.g.cs
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\MainPage.g.cs
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.g.resources
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.Resources.AppResources.resources
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.csproj.GenerateResource.Cache
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.dll
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\Mid_term.pdb
+\\cs1\CS_Students\tbradford16\CS-396-1 Mobile Apps\Mid term program\Mid_term C Sharp\Mid_term\obj\Debug\XapCacheFile.xml
